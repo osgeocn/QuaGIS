@@ -63,7 +63,12 @@ const linksList = [
     icon: 'code',
     link: '/#/leaflet/bwind'
   },
-
+  {
+    title: 'Leaflet弹窗',
+    caption: 'Leaflet 简单示例',
+    icon: 'code',
+    link: '/#/leaflet/lf4'
+  },
   {
     title: 'MapTalks',
     caption: 'Developed in China',
