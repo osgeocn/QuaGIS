@@ -70,6 +70,12 @@ const linksList = [
     link: '/#/leaflet/lf4'
   },
   {
+    title: 'Leaflet图层控件',
+    caption: 'Leaflet 简单示例',
+    icon: 'code',
+    link: '/#/leaflet/lf5'
+  },
+  {
     title: 'MapTalks',
     caption: 'Developed in China',
     icon: 'record_voice_over',
