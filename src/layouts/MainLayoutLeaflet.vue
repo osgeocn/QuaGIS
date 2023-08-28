@@ -94,6 +94,12 @@ const linksList = [
     link: '/#/leaflet/lf8'
   },
   {
+    title: 'Leaflet Video',
+    caption: 'Leaflet 简单示例',
+    icon: 'code',
+    link: '/#/leaflet/lf9'
+  },
+  {
     title: 'MapTalks',
     caption: 'Developed in China',
     icon: 'record_voice_over',
