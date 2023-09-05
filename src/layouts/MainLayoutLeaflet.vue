@@ -105,6 +105,12 @@ const linksList = [
     icon: 'code',
     link: '/#/leaflet/lf10'
   },
+    {
+    title: 'Leaflet点击坐标信息',
+    caption: 'Leaflet 简单示例',
+    icon: 'code',
+    link: '/#/leaflet/lf11'
+  },
   {
     title: 'MapTalks',
     caption: 'Developed in China',
