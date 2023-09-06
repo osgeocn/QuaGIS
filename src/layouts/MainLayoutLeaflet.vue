@@ -111,6 +111,12 @@ const linksList = [
     icon: 'code',
     link: '/#/leaflet/lf11'
   },
+     {
+    title: 'Leaflet Geojson 点击弹窗',
+    caption: 'Leaflet 简单示例',
+    icon: 'code',
+    link: '/#/leaflet/lf12'
+  },
   {
     title: 'MapTalks',
     caption: 'Developed in China',
