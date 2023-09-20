@@ -36,6 +36,7 @@ const routes: RouteRecordRaw[] = [
       {path: 'lf10', component: () => import('pages/leaf/leaf_leaflet_f10.vue')},
       {path: 'lf11', component: () => import('pages/leaf/leaf_leaflet_f11.vue')},
       {path: 'lf12', component: () => import('pages/leaf/leaf_leaflet_f12.vue')},
+      {path: 'lf13', component: () => import('pages/leaf/leaf_leaflet_f13.vue')},
       {path: 'bleaflet', component: () => import('pages/leaf/leaf_leaflet_foo.vue')},
       {path: 'bmaptalks', component: () => import('pages/maptalks_foo.vue')},
       {path: 'bmapbox', component: () => import('pages/mapbox_dde/mapdde_foo.vue')},

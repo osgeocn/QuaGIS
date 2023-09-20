@@ -117,6 +117,12 @@ const linksList = [
     icon: 'code',
     link: '/#/leaflet/lf12'
   },
+      {
+    title: 'Leaflet SmoothWheelZoom',
+    caption: 'Leaflet 简单示例',
+    icon: 'code',
+    link: '/#/leaflet/lf12'
+  },
   {
     title: 'MapTalks',
     caption: 'Developed in China',
