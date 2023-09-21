@@ -121,7 +121,13 @@ const linksList = [
     title: 'Leaflet SmoothWheelZoom',
     caption: 'Leaflet 简单示例',
     icon: 'code',
-    link: '/#/leaflet/lf12'
+    link: '/#/leaflet/lf13'
+  },
+  {
+    title: 'Leaflet 增删WMS图层',
+    caption: 'Leaflet 简单示例',
+    icon: 'code',
+    link: '/#/leaflet/lf14'
   },
   {
     title: 'MapTalks',
