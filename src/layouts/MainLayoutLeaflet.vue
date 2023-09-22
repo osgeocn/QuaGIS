@@ -123,6 +123,12 @@ const linksList = [
     icon: 'code',
     link: '/#/leaflet/lf13'
   },
+       {
+    title: 'Leaflet 鼠标划过展示坐标',
+    caption: 'Leaflet 简单示例',
+    icon: 'code',
+    link: '/#/leaflet/lf15'
+  },
   {
     title: 'Leaflet 增删WMS图层',
     caption: 'Leaflet 简单示例',
